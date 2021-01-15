@@ -3,6 +3,6 @@ function happyHolidays(str) {
 return "Happy holidays!"}
 
 function happyHolidaysTo(str){
-var name = "Art"
+if str == name
   return (`Happy holidays, ${name}!`)
 }
