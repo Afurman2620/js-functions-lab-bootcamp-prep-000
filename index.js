@@ -6,4 +6,3 @@ function happyHolidaysTo(str){
 var name = "Art"
   return (`Happy holidays, ${name}!`)
 }
-
